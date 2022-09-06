@@ -1,19 +1,20 @@
-Viacheslav Bartosh
-
-Contact information
+##Viacheslav Bartosh
+***
+Contact information/
 Phone: +375255286113
 E-Mail: 231globus@gmail.com
 Discord: Viacheslav Bartosh (@231globus)
-
-About me
+***
+About me/
 What about me?
-
-Skills
+***
+Skills/
 HTML, CSS
 JavaScript, PHP
 Git, Docker
-
-Code example
+***
+Code example/
+```
 function pow(x, n) {
   let result = 1;
 
@@ -23,10 +24,11 @@ function pow(x, n) {
 
   return result;
 }
-
-Courses
+```
+***
+Courses/
 ...
-
-Languages
+***
+Languages/
 Russian - Native
 English - A1 (A2 in progress)
